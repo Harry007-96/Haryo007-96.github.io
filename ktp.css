@@ -1,0 +1,19 @@
+table {
+background-color: cyan;
+  width: 300px;
+  border: 15px solid darkblue;
+  padding: 20px;
+  margin: 20px;
+}
+th {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+
+}
+td {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+tr {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkblue;
+}
