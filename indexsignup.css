@@ -1,0 +1,43 @@
+/*
+
+SignUp Untuk Bergabung bersama RPL Rumah Gemilang Indonesia
+
+http://rumahgemilang.com/
+
+*/
+
+header {
+    display: block;
+	background-color: #5453b3;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+	font-weight: 300;
+    overflow: visible;
+    padding: 20px 100px 20px 100px;
+    height: 1200px;
+    border: 5px solid rgb(11, 54, 102);
+    margin: 50px;
+    
+}
+
+html,body {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(94, 198, 216);
+}
+
+div {
+    width: 100%;
+    display: inline-block;
+}
+.form-control-file:hover {
+	background-color: #660d28;
+    transition: all 0.5s;
+    width: 100px;
+}
+h1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    transition-delay: 0.5ms;
+}
